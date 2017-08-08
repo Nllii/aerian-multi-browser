@@ -1,7 +1,8 @@
 # Aerian Multi Browser
 Simple web browser with TouchBar implementation that supports multi browsing with rows and/or columns. 
 
-This is part of the course [Hacking with macOS - Build 18 Desktop Apps with Swift 3](https://www.udemy.com/macbookapps/) by [Stephen DeStefano• iOS / macOS Developer / Swift Instructor](https://www.udemy.com/macbookapps/#instructor)
+This is part of the course [Hacking with macOS - Build 18 Desktop Apps with Swift 3](https://www.udemy.com/macbookapps/) <br>
+by [Stephen DeStefano• iOS / macOS Developer / Swift Instructor](https://www.udemy.com/macbookapps/#instructor)<br>
 The current project as of 8 Aug 2017 is as taught in the course.
 
 New features such as implementing the following, are not included in the course:
